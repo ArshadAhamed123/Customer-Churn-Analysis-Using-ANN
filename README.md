@@ -9,13 +9,13 @@ Customer churn is a major concern for telecom companies. Identifying customers l
 The goal of this project is to build a model that accurately predicts whether a customer will churn based on various features.
 
 Technologies Used :
-Python
-TensorFlow / Keras
-Pandas
-NumPy
-Scikit-learn
-Matplotlib / Seaborn (for visualization)
-Kaggle (dataset source)
+1)Python
+2)TensorFlow / Keras
+3)Pandas
+4)NumPy
+5)Scikit-learn
+6)Matplotlib / Seaborn (for visualization)
+7)Kaggle (dataset source)
 
 
 Results
